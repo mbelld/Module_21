@@ -112,6 +112,20 @@ Next, within the `KaseiCoinCrowdsaleDeployer` contract, add variables to store t
 
 ![ScreenShot](https://github.com/mbelld/Module_21/blob/main/EvaluationEvidence/KaseiCoinCrowdsale_compiler_2.png)
 
+(see additional screenshots below)
+
+
+#### Deploy the Crowdsale to a Local Blockchain
+
+In this section, you will deploy the crowdsale to a local blockchain using Remix, MetaMask, and Ganache. To do so, complete the following steps. Record a short video or take screenshots that illustrate the three steps outlined below as evidence of your deployed crowdsale contract.
+
+
+1. Deploy the crowdsale to a local blockchain with Remix, MetaMask, and Ganache.
+
+2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accounts.
+
+3. After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
+
 ![ScreenShot](https://github.com/mbelld/Module_21/blob/main/EvaluationEvidence/Import_Accounts_RemixInjectedProvider.png)
 
 ![ScreenShot](https://github.com/mbelld/Module_21/blob/main/EvaluationEvidence/Import_Accounts_GanacheToMetaMask.png)
@@ -126,17 +140,6 @@ Next, within the `KaseiCoinCrowdsaleDeployer` contract, add variables to store t
 
 
 
-
-#### Deploy the Crowdsale to a Local Blockchain
-
-In this section, you will deploy the crowdsale to a local blockchain using Remix, MetaMask, and Ganache. To do so, complete the following steps. Record a short video or take screenshots that illustrate the three steps outlined below as evidence of your deployed crowdsale contract.
-
-
-1. Deploy the crowdsale to a local blockchain with Remix, MetaMask, and Ganache.
-
-2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accounts.
-
-3. After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
 
 #### Optional: Extend the Crowdsale Contract by Using OpenZeppelin
 
