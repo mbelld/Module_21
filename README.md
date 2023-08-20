@@ -106,7 +106,25 @@ Next, within the `KaseiCoinCrowdsaleDeployer` contract, add variables to store t
 
 7. Take a screenshot of the successful compilation of the contract, and add it to the Evaluation Evidence section of the `README.md` file for your Challenge repository.
 
-![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence)
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/KaseiCoin_compiler)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/KaseiCoinCrowdsale_compiler)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/KaseiCoinCrowdsale_compiler_2)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/Import_Accounts_RemixInjectedProvider)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/Import_Accounts_GanacheToMetaMask)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/Deploy_GanacheMetaMaskRemix)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/Deploy_CrowdSaleDeployer_CopyAddress)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/buyTokens_preTransactionAcct4_ending76Ba)
+
+![ScreenShot](https://github.com/mbelld/Module_21/EvaluationEvidence/buyTokens_postTransactionAcct4_ending76Ba)
+
+
 
 
 #### Deploy the Crowdsale to a Local Blockchain
